@@ -5,7 +5,7 @@
 		<h3>Toyota</h3>
 		<p>
 		Unlike the wide range of petrol, diesel, automatic, and 4x4 options, the Legender version is only offered with a 2.8-litre diesel engine. It's mated to a six-speed automatic gearbox sending power to the rear wheels only. Power rating is up by 26bhp as this one churns out 201bhp and 500Nm of torque.</p>
-		<a href=" ">Buy Now</a>
+		<a href="https://www.toyotabharat.com/">Buy Now</a>
 		</div>
 	<img src="fortu.png" alt=" ">
 
